@@ -1,3 +1,4 @@
+import React from "react";
 import component from "./component.module.css";
 
 const ComponentModule = () => {
